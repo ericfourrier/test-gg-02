@@ -1,2 +1,3 @@
 import os
 secret=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
+secret2=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
